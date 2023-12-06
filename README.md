@@ -11,3 +11,82 @@ Its a turn-based role-playing game at its core. You’re given control of Omori 
 
 The game represents depictions of anxiety, depression, and mental serious health issues. The depictions in this game are crucial to the narrative and are not present simply for the “scare” factor. However, it doesn’t stop the fact that the themes in this game are heavy. If you are sensitive to this kind of content, it’s okay to refrain from experiencing this game if you feel uncomfortable from any of these factors.
 
+*My time(The theme of omori)*
+
+Close your eyes, you'll be here soon
+
+一 二 三 四 五分
+
+時々 本当に寝たい
+
+でも このワードできない
+
+おやすみ
+
+おやすみ
+
+おやすみ
+
+おやすみ
+
+おやすみ, おやすみ
+
+Close your eyes and you'll leave this dream
+
+おやすみ, おやすみ
+
+I know that it's hard to do
+
+Days go by, しょうがない
+
+Moments pass, shattered glass
+
+Hands of time, where's that chime?
+
+In my head, I'll just
+
+I'll just, I'll just
+
+I'll just
+
+Hands of time will wring my neck
+
+Every little moment spells regret
+
+But I don't have to feel this way
+
+As a voice inside my head
+
+おやすみ
+
+おやすみ
+
+おやすみ
+
+おやすみ
+
+おやすみ, おやすみ
+
+Close your eyes and you'll leave this dream
+
+おやすみ, おやすみ
+
+I know that it's hard to do
+
+おやすみ, おやすみ
+
+Close your eyes and you'll leave this dream
+
+おやすみ, おやすみ
+
+I know that it's hard to do
+
+おやすみ, おやすみ
+
+Close your eyes and you'll leave this dream
+
+おやすみ, おやすみ
+
+I know that it's hard to do
+
+
