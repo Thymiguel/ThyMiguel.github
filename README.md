@@ -1,3 +1,4 @@
 # ThyMiguel.github.io
 Gabriel Miguel R. Borja
-![childhood memories](https://i.pinimg.com/originals/62/5c/d5/625cd541de153da7a9b3969c8cbaf7fa.png)
+![omori](https://www.trueachievements.com/imgs/129567/omori-consoles-xbox-game-pass.jpg)
+*"it will be alright."*
