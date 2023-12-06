@@ -11,4 +11,3 @@ Its a turn-based role-playing game at its core. You’re given control of Omori 
 
 The game represents depictions of anxiety, depression, and mental serious health issues. The depictions in this game are crucial to the narrative and are not present simply for the “scare” factor. However, it doesn’t stop the fact that the themes in this game are heavy. If you are sensitive to this kind of content, it’s okay to refrain from experiencing this game if you feel uncomfortable from any of these factors.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mzgYj_qCHLg?si=FAYfvFpuDK-Nd3zF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
