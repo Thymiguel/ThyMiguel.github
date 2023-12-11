@@ -91,7 +91,6 @@ I know that it's hard to do
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mzgYj_qCHLg?si=VN7mwsmr1SMGRqoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
-
 ### Omori Playlist/OST: 7/15/199X (this is a fanmade timeline and it good for relaxing/studying music.)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7bpQDZtaygXiQaadPbF6U5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
